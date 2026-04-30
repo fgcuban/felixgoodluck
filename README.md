@@ -35,17 +35,12 @@
 
 ---
 
-## 📊 GitHub Stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixgoodluck&show_icons=true)
-
----
-
 ## 🌐 Connect with Me
-- Website: [[https://twitter.com/yourusername](https://x.com/fgcuban)](https://baxchain.com/)
-- Twitter/X: [https://twitter.com/yourusername](https://x.com/fgcuban)  
-- Instagram: [https://instagram.com/yourusername](https://www.instagram.com/felix.goodluck001/)  
-- Facebook: [https://facebook.com/yourusername](https://www.facebook.com/felix.goodluck001)
-- Tiktok: [[https://facebook.com/yourusername](https://www.facebook.com/felix.goodluck001)](https://tiktok.com/@fg_cuban)  
+- Website: [https://baxchain.com](https://baxchain.com)]
+- Twitter/X: [https://twitter.com/fgcuban](https://x.com/fgcuban)  
+- Instagram: [https://instagram.com/felix.goodluck001](https://www.instagram.com/felix.goodluck001/)  
+- Facebook: [https://facebook.com/felix.goodluck001](https://www.facebook.com/felix.goodluck001)
+- Tiktok: [[https://tiktok.com/fg_cuban](https://tiktok.com/fg_cuban)] 
 
 ---
 
