@@ -24,6 +24,9 @@
 
 ## 📌 Featured Projects
 
+- 🔗 **9ja Store** – https://9jastore.com  
+  A modern multi-vendor eCommerce platform that empowers businesses and individuals to create their own online stores, manage products and services, process orders, handle deliveries, and accept secure payments with ease.
+  
 - 🔗 **BaxSocial** – https://baxsocial.com  
   A social platform designed to connect users and enable community engagement through modern web features.
 
